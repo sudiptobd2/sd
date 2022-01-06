@@ -263,42 +263,6 @@ http://jo123.biz/jweb/m3u8.php?c=Network_10&q=800&e=junk.m3u8
 http://jo123.biz/jweb/m3u8.php?c=Samachar_Today&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="1550" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AB_News.png" group-title="INDIA_IPTV2021 News", AB News
 http://jo123.biz/jweb/m3u8.php?c=AB_News&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="657" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png" group-title="INDIA_IPTV2021 Business News", Zee Business
-http://jo123.biz/jweb/m3u8.php?c=Zee_Business&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="143" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="INDIA_IPTV2021 Business News", CNBC Tv18 Prime HD
-http://jo123.biz/jweb/m3u8.php?c=CNBC_Tv18_Prime_HD&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="190" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png" group-title="INDIA_IPTV2021 Business News", CNBC Awaaz
-http://jo123.biz/jweb/m3u8.php?c=CNBC_Awaaz&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="489" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" group-title="INDIA_IPTV2021 Business News", CNBC Tv 18
-http://jo123.biz/jweb/m3u8.php?c=CNBC_Tv_18&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="545" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="INDIA_IPTV2021 Kids", Nick Hindi
-http://jo123.biz/jweb/m3u8.php?c=Nick_Hindi&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="559" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="INDIA_IPTV2021 Kids", Pogo Hindi
-http://jo123.biz/jweb/m3u8.php?c=Pogo_Hindi&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="816" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="INDIA_IPTV2021 Kids", Cartoon Network Hindi
-http://jo123.biz/jweb/m3u8.php?c=Cartoon_Network_Hindi&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="815" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="INDIA_IPTV2021 Kids", Sonic Hindi
-http://jo123.biz/jweb/m3u8.php?c=sonic_Hindi&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="872" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="INDIA_IPTV2021 Kids", Sony Yay Hindi
-http://jo123.biz/jweb/m3u8.php?c=Sony_Yay_Hindi&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="547" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png" group-title="INDIA_IPTV2021 Kids", Nickelodeon
-http://jo123.biz/jweb/m3u8.php?c=Nickelodeon&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1079" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="INDIA_IPTV2021 Kids", CN HD+ English
-http://jo123.biz/jweb/m3u8.php?c=CN_HD_English&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="554" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="INDIA_IPTV2021 Kids", Discovery Kids 2
-http://jo123.biz/jweb/m3u8.php?c=Discovery_Kids_2&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="544" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="INDIA_IPTV2021 Kids", Nick Junior
-http://jo123.biz/jweb/m3u8.php?c=Nick_Junior&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="551" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Toonami.png" group-title="INDIA_IPTV2021 Kids", Testton
-http://jo123.biz/jweb/m3u8.php?c=Toonami&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="548" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="INDIA_IPTV2021 Kids", Nickelodeon Jr.
-http://jo123.biz/jweb/m3u8.php?c=Nickelodeon_Jr&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1216" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Highbrow.png" group-title="INDIA_IPTV2021 Kids", Highbrow
-http://jo123.biz/jweb/m3u8.php?c=Highbrow&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1226" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD+.png" group-title="INDIA_IPTV2021 Kids", Nick HD+
-http://jo123.biz/jweb/m3u8.php?c=Nick_HD_Plus&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1430" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png" group-title="INDIA_IPTV2021 Kids", Jio KIDS
-http://jo123.biz/jweb/m3u8.php?c=Jio_KIDS&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="430" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png" group-title="INDIA_IPTV2021 Sports", Jio Cricket HD English
 http://jo123.biz/jweb/m3u8.php?c=Jio_Cricket&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="438" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Hindi.png" group-title="INDIA_IPTV2021 Sports", Jio Cricket HD Hindi
@@ -401,22 +365,9 @@ http://jo123.biz/jweb/m3u8.php?c=Jio_Events&q=800&e=junk.m3u8
 http://jo123.biz/jweb/m3u8.php?c=Animal_Planet_English&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="242" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" group-title="INDIA_IPTV2021 Infotainment", Discovery
 http://jo123.biz/jweb/m3u8.php?c=Discovery&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="823" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_SD.png" group-title="INDIA_IPTV2021 Infotainment", Sony BBC Earth SD
-http://jo123.biz/jweb/m3u8.php?c=Sony_BBC_Earth_SD&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="583" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Kisan.png" group-title="INDIA_IPTV2021 Infotainment", DD Kisan
-http://jo123.biz/jweb/m3u8.php?c=DD_Kisan&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="541" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="INDIA_IPTV2021 Infotainment", Discovery Turbo
 http://jo123.biz/jweb/m3u8.php?c=Discovery_Turbo&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="852" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_English.png" group-title="INDIA_IPTV2021 Infotainment", Sony BBC Earth HD English
-http://jo123.biz/jweb/m3u8.php?c=Sony_BBC_Earth_HD_English&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="580" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_bharati.png" group-title="INDIA_IPTV2021 Infotainment", DD bharati
-http://jo123.biz/jweb/m3u8.php?c=DD_bharati&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="582" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Care_World.png" group-title="INDIA_IPTV2021 Infotainment", Care World
-http://jo123.biz/jweb/m3u8.php?c=Care_World&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="888" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Insight.png" group-title="INDIA_IPTV2021 Infotainment", Insight
-http://jo123.biz/jweb/m3u8.php?c=Insight&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1444" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/YTV_INDIA.png" group-title="INDIA_IPTV2021 Infotainment", YTV India
-http://jo123.biz/jweb/m3u8.php?c=YTV_INDIA&q=800&e=junk.m3u8
+#EXTINF: -1 tvg-id="852" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_English.png" group-title="INDIA_IPTV2021 Infotainment",
 #EXTINF: -1 tvg-id="1471" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_TV18_SD.png" group-title="INDIA_IPTV2021 Infotainment", History TV18 SD
 http://jo123.biz/jweb/m3u8.php?c=History_TV18_SD&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="479" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png" group-title="INDIA_IPTV2021 Lifestyle", TLC HD
@@ -429,12 +380,6 @@ http://jo123.biz/jweb/m3u8.php?c=Travel_XP&q=800&e=junk.m3u8
 http://jo123.biz/jweb/m3u8.php?c=TLC_English&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="571" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="INDIA_IPTV2021 Lifestyle", TLC Hindi
 http://jo123.biz/jweb/m3u8.php?c=TLC_Hindi&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1225" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Click_Life.png" group-title="INDIA_IPTV2021 Lifestyle", Click Life
-http://jo123.biz/jweb/m3u8.php?c=Click_Life&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1290" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/StarTell.png" group-title="INDIA_IPTV2021 Lifestyle", Stars Tell
-http://jo123.biz/jweb/m3u8.php?c=StarTell&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1292" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wellness_TV.png" group-title="INDIA_IPTV2021 Lifestyle", Wellness
-http://jo123.biz/jweb/m3u8.php?c=Wellness_TV&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="175" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png" group-title="INDIA_IPTV2021 Devotional", Aastha
 http://jo123.biz/jweb/m3u8.php?c=Aastha&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="594" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Bhajan.png" group-title="INDIA_IPTV2021 Devotional", Aastha Bhajan
@@ -582,271 +527,7 @@ http://jo123.biz/jweb/m3u8.php?c=Ashtavinayak_Ranjangaon&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="1422" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mahalaxmi_Mumbai.png" group-title="INDIA_IPTV2021 Jio Darshan", Mahalaxmi Mumbai
 http://jo123.biz/jweb/m3u8.php?c=Mahalaxmi_Mumbai&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="1423" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Babulnaath_Mumbai.png" group-title="INDIA_IPTV2021 Jio Darshan", Babulnaath Mumbai
-http://jo123.biz/jweb/m3u8.php?c=Babulnaath_Mumbai&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1424" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mumbadevi_Mumbai.png" group-title="INDIA_IPTV2021 Jio Darshan", Mumbadevi Mumbai
-http://jo123.biz/jweb/m3u8.php?c=Mumbadevi_Mumbai&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="968" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Millionlights.png" group-title="INDIA_IPTV2021 Educational", Millionlights
-http://jo123.biz/jweb/m3u8.php?c=Millionlights&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1433" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_Science.png" group-title="INDIA_IPTV2021 Educational", India Science
-http://jo123.biz/jweb/m3u8.php?c=India_Science&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="980" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_01.png" group-title="INDIA_IPTV2021 Educational", Swayam Prabha 01
-http://jo123.biz/jweb/m3u8.php?c=Swayam_Prabha_01&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="981" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_02.png" group-title="INDIA_IPTV2021 Educational", Swayam Prabha 02
-http://jo123.biz/jweb/m3u8.php?c=Swayam_Prabha_02&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="982" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_03.png" group-title="INDIA_IPTV2021 Educational", Swayam Prabha 03
-http://jo123.biz/jweb/m3u8.php?c=Swayam_Prabha_03&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="984" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_04.png" group-title="INDIA_IPTV2021 Educational", Swayam Prabha 04
-http://jo123.biz/jweb/m3u8.php?c=Swayam_Prabha_04&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="986" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_05.png" group-title="INDIA_IPTV2021 Educational", Swayam Prabha 05
-http://jo123.biz/jweb/m3u8.php?c=Swayam_Prabha_05&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="987" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_06.png" group-title="INDIA_IPTV2021 Educational", Swayam Prabha 06
-http://jo123.biz/jweb/m3u8.php?c=Swayam_Prabha_06&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="985" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_07.png" group-title="INDIA_IPTV2021 Educational", Swayam Prabha 07
-http://jo123.biz/jweb/m3u8.php?c=Swayam_Prabha_07&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="983" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_08.png" group-title="INDIA_IPTV2021 Educational", Swayam Prabha 08
-http://jo123.biz/jweb/m3u8.php?c=Swayam_Prabha_08&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="988" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_09.png" group-title="INDIA_IPTV2021 Educational", Swayam Prabha 09
-http://jo123.biz/jweb/m3u8.php?c=Swayam_Prabha_09&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="989" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_10.png" group-title="INDIA_IPTV2021 Educational", Swayam Prabha 10
-http://jo123.biz/jweb/m3u8.php?c=Swayam_Prabha_10&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="990" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_11.png" group-title="INDIA_IPTV2021 Educational", Swayam Prabha 11
-http://jo123.biz/jweb/m3u8.php?c=Swayam_Prabha_11&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="991" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_12.png" group-title="INDIA_IPTV2021 Educational", Swayam Prabha 12
-http://jo123.biz/jweb/m3u8.php?c=Swayam_Prabha_12&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="992" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_13.png" group-title="INDIA_IPTV2021 Educational", Swayam Prabha 13
-http://jo123.biz/jweb/m3u8.php?c=Swayam_Prabha_13&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="993" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_14.png" group-title="INDIA_IPTV2021 Educational", Swayam Prabha 14
-http://jo123.biz/jweb/m3u8.php?c=Swayam_Prabha_14&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="995" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_15.png" group-title="INDIA_IPTV2021 Educational", Swayam Prabha 15
-http://jo123.biz/jweb/m3u8.php?c=Swayam_Prabha_15&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="994" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_16.png" group-title="INDIA_IPTV2021 Educational", Swayam Prabha 16
-http://jo123.biz/jweb/m3u8.php?c=Swayam_Prabha_16&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="996" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_17.png" group-title="INDIA_IPTV2021 Educational", Swayam Prabha 17
-http://jo123.biz/jweb/m3u8.php?c=Swayam_Prabha_17&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="999" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_18.png" group-title="INDIA_IPTV2021 Educational", Swayam Prabha 18
-http://jo123.biz/jweb/m3u8.php?c=Swayam_Prabha_18&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="401" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_19.png" group-title="INDIA_IPTV2021 Educational", Swayam Prabha 19
-http://jo123.biz/jweb/m3u8.php?c=Swayam_Prabha_19&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="403" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_20.png" group-title="INDIA_IPTV2021 Educational", Swayam Prabha 20
-http://jo123.biz/jweb/m3u8.php?c=Swayam_Prabha_20&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="997" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_21.png" group-title="INDIA_IPTV2021 Educational", Swayam Prabha 21
-http://jo123.biz/jweb/m3u8.php?c=Swayam_Prabha_21&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="998" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_22.png" group-title="INDIA_IPTV2021 Educational", Swayam Prabha 22
-http://jo123.biz/jweb/m3u8.php?c=Swayam_Prabha_22&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="400" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_1.png" group-title="INDIA_IPTV2021 Educational", PM e Vidya 01
-http://jo123.biz/jweb/m3u8.php?c=evidya_1&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="402" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_2.png" group-title="INDIA_IPTV2021 Educational", PM e Vidya 02
-http://jo123.biz/jweb/m3u8.php?c=evidya_2&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="405" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_3.png" group-title="INDIA_IPTV2021 Educational", PM e Vidya 03
-http://jo123.biz/jweb/m3u8.php?c=evidya_3&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="406" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_4.png" group-title="INDIA_IPTV2021 Educational", PM e Vidya 04
-http://jo123.biz/jweb/m3u8.php?c=evidya_4&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="407" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_5.png" group-title="INDIA_IPTV2021 Educational", PM e Vidya 05
-http://jo123.biz/jweb/m3u8.php?c=evidya_5&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="408" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_6.png" group-title="INDIA_IPTV2021 Educational", PM e Vidya 06
-http://jo123.biz/jweb/m3u8.php?c=evidya_6&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="404" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_7.png" group-title="INDIA_IPTV2021 Educational", PM e Vidya 07
-http://jo123.biz/jweb/m3u8.php?c=evidya_7&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="409" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/_evidya_8.png" group-title="INDIA_IPTV2021 Educational", PM e Vidya 08
-http://jo123.biz/jweb/m3u8.php?c=_evidya_8&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="410" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/_evidya_9.png" group-title="INDIA_IPTV2021 Educational", PM e Vidya 09
-http://jo123.biz/jweb/m3u8.php?c=_evidya_9&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="411" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_10.png" group-title="INDIA_IPTV2021 Educational", PM e Vidya 10
-http://jo123.biz/jweb/m3u8.php?c=evidya_10&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1410" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_11.png" group-title="INDIA_IPTV2021 Educational", PM e Vidya 11
-http://jo123.biz/jweb/m3u8.php?c=evidya_11&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1532" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_12.png" group-title="INDIA_IPTV2021 Educational", PM e Vidya 12
-http://jo123.biz/jweb/m3u8.php?c=evidya_12&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1337" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Top_Tutor.png" group-title="INDIA_IPTV2021 Educational", Top Tutor
-http://jo123.biz/jweb/m3u8.php?c=Top_Tutor&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1456" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manipur_Educational_Channel.png" group-title="INDIA_IPTV2021 Educational", Lairik
-http://jo123.biz/jweb/m3u8.php?c=Manipur_Educational_Channel&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1447" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV_Teacher.png" group-title="INDIA_IPTV2021 Educational", TV Teacher
-http://jo123.biz/jweb/m3u8.php?c=TV_Teacher&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1434" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Primary.png" group-title="INDIA_IPTV2021 Educational", Utkarsh Primary
-http://jo123.biz/jweb/m3u8.php?c=Utkarsh_Primary&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1435" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Middle.png" group-title="INDIA_IPTV2021 Educational", Utkarsh HSBTE
-http://jo123.biz/jweb/m3u8.php?c=Utkarsh_Middle&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1436" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Secondary.png" group-title="INDIA_IPTV2021 Educational", Utkarsh Secondary
-http://jo123.biz/jweb/m3u8.php?c=Utkarsh_Secondary&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1437" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Higher.png" group-title="INDIA_IPTV2021 Educational", Utkarsh Higher
-http://jo123.biz/jweb/m3u8.php?c=Utkarsh_Higher&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1439" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Meluha.png" group-title="INDIA_IPTV2021 Educational", Meluha
-http://jo123.biz/jweb/m3u8.php?c=Meluha&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1465" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dnyanganga_3_4_Mar_Eng_Urdhu.png" group-title="INDIA_IPTV2021 Educational", Dnyanganga 3rd-4th Mar-Eng-Urdu
-http://jo123.biz/jweb/m3u8.php?c=Dnyanganga_3_4_Mar_Eng_Urdhu&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1466" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dnyanganga_5_Mar_Eng_Urdhu.png" group-title="INDIA_IPTV2021 Educational", Dnyanganga 5th Mar-Eng-Urdu
-http://jo123.biz/jweb/m3u8.php?c=Dnyanganga_5_Mar_Eng_Urdhu&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1467" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dnyanganga_6_Mar_Eng_Urdhu.png" group-title="INDIA_IPTV2021 Educational", Dnyanganga 6th Mar-Eng-Urdu
-http://jo123.biz/jweb/m3u8.php?c=Dnyanganga_6_Mar_Eng_Urdhu&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1468" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dnyanganga_7_Mar_Eng_Urdhu.png" group-title="INDIA_IPTV2021 Educational", Dnyanganga 7th Mar-Eng-Urdu
-http://jo123.biz/jweb/m3u8.php?c=Dnyanganga_7_Mar_Eng_Urdhu&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1469" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dnyanganga_8_Mar_Eng_Urdhu.png" group-title="INDIA_IPTV2021 Educational", Dnyanganga 8th Mar-Eng-Urdu
-http://jo123.biz/jweb/m3u8.php?c=Dnyanganga_8_Mar_Eng_Urdhu&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1472" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dnyanganga_9_English_Medium.png" group-title="INDIA_IPTV2021 Educational", Dnyanganga 9th English
-http://jo123.biz/jweb/m3u8.php?c=Dnyanganga_9_English_Medium&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1445" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mahawani_10th_English.png" group-title="INDIA_IPTV2021 Educational", Dnyanganga 10th English
-http://jo123.biz/jweb/m3u8.php?c=Mahawani_10th_English&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1443" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mahawani_English.png" group-title="INDIA_IPTV2021 Educational", Dnyanganga 12th Science
-http://jo123.biz/jweb/m3u8.php?c=Mahawani_English&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1480" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IMS_School.png" group-title="INDIA_IPTV2021 Educational", IMS Schools Grade 1 - 8
-http://jo123.biz/jweb/m3u8.php?c=IMS_School&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1493" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/School_Education_Nagaland.png" group-title="INDIA_IPTV2021 Educational", School Education Nagaland
-http://jo123.biz/jweb/m3u8.php?c=School_Education_Nagaland&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1521" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Birla_Brainiacs.png" group-title="INDIA_IPTV2021 Educational", Birla Brainiacs
-http://jo123.biz/jweb/m3u8.php?c=Birla_Brainiacs&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1531" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gyanvani_1.png" group-title="INDIA_IPTV2021 Educational", Gyanvani 1
-http://jo123.biz/jweb/m3u8.php?c=Gyanvani_1&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1542" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tute.png" group-title="INDIA_IPTV2021 Educational", Tute
-http://jo123.biz/jweb/m3u8.php?c=Tute&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1547" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AAS_Vidyalaya.png" group-title="INDIA_IPTV2021 Educational", AAS Vidyalaya
-http://jo123.biz/jweb/m3u8.php?c=AAS_Vidyalaya&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1562" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Himshiksha_Elementary.png" group-title="INDIA_IPTV2021 Educational", Himshiksha Elementary
-http://jo123.biz/jweb/m3u8.php?c=Himshiksha_Elementary&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1563" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Himshiksha_Higher.png" group-title="INDIA_IPTV2021 Educational", Himshiksha Higher
-http://jo123.biz/jweb/m3u8.php?c=Himshiksha_Higher&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1564" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Himshiksha_Vocational.png" group-title="INDIA_IPTV2021 Educational", Himshiksha Vocational
-http://jo123.biz/jweb/m3u8.php?c=Himshiksha_Vocational&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1565" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_ARTS.png" group-title="INDIA_IPTV2021 Educational", AP-BIE-ARTS
-http://jo123.biz/jweb/m3u8.php?c=AP_BIE_ARTS&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1566" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_SCIENCE.png" group-title="INDIA_IPTV2021 Educational", AP-BIE-SCIENCE
-http://jo123.biz/jweb/m3u8.php?c=AP_BIE_SCIENCE&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1567" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_CIE_SIVE.png" group-title="INDIA_IPTV2021 Educational", AP-CIE-SIVE
-http://jo123.biz/jweb/m3u8.php?c=AP_CIE_SIVE&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1590" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sanskritam.png" group-title="INDIA_IPTV2021 Educational", Sanskrit
-http://jo123.biz/jweb/m3u8.php?c=Sanskritam&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1446" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/M_lead.png" group-title="INDIA_IPTV2021 Educational", M-LEAD
-http://jo123.biz/jweb/m3u8.php?c=M_lead&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1544" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shiksha_Darshan.png" group-title="INDIA_IPTV2021 Educational", Shiksha Darshan
-http://jo123.biz/jweb/m3u8.php?c=Shiksha_Darshan&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1171" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi.png" group-title="INDIA_IPTV2021 Punjabi", PTC Punjabi
-http://jo123.biz/jweb/m3u8.php?c=PTC_Punjabi&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1189" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Music.png" group-title="INDIA_IPTV2021 Punjabi", PTC Music
-http://jo123.biz/jweb/m3u8.php?c=PTC_Music&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="906" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Desi_Channel.png" group-title="INDIA_IPTV2021 Punjabi", Desi Channel
-http://jo123.biz/jweb/m3u8.php?c=Desi_Channel&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="609" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Shraddha.png" group-title="INDIA_IPTV2021 Punjabi", mh1 Shraddha
-http://jo123.biz/jweb/m3u8.php?c=mh1_Shraddha&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1191" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Simran.png" group-title="INDIA_IPTV2021 Punjabi", PTC Simran
-http://jo123.biz/jweb/m3u8.php?c=PTC_Simran&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="904" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sanjha_TV.png" group-title="INDIA_IPTV2021 Punjabi", Sanjha TV
-http://jo123.biz/jweb/m3u8.php?c=Sanjha_TV&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="951" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/GarvPunjabi.png" group-title="INDIA_IPTV2021 Punjabi", Garv Punjabi
-http://jo123.biz/jweb/m3u8.php?c=GarvPunjabi&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="959" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/JUSPunjabi.png" group-title="INDIA_IPTV2021 Punjabi", JUSPunjabi
-http://jo123.biz/jweb/m3u8.php?c=JUSPunjabi&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1260" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CTVN_AKD_Plus.png" group-title="INDIA_IPTV2021 Punjabi", CTVN AKD Plus
-http://jo123.biz/jweb/m3u8.php?c=Ctvn_Akd_Plus&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="715" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Punjabi.png" group-title="INDIA_IPTV2021 Punjabi", DD Punjabi
-http://jo123.biz/jweb/m3u8.php?c=DD_Punjabi&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="946" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png" group-title="INDIA_IPTV2021 Punjabi", Pitaara
-http://jo123.biz/jweb/m3u8.php?c=Pitaara&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1190" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png" group-title="INDIA_IPTV2021 Punjabi", PTC Punjabi Gold
-http://jo123.biz/jweb/m3u8.php?c=PTC_Punjabi_Gold&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1172" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Chak_De.png" group-title="INDIA_IPTV2021 Punjabi", PTC Chak De
-http://jo123.biz/jweb/m3u8.php?c=PTC_Chak_De&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="732" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png" group-title="INDIA_IPTV2021 Punjabi", 9X Tashan
-http://jo123.biz/jweb/m3u8.php?c=9X_Tashan&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1188" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_DHOL_TV.png" group-title="INDIA_IPTV2021 Punjabi", PTC DHOL TV
-http://jo123.biz/jweb/m3u8.php?c=PTC_DHOL_TV&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="742" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Music.png" group-title="INDIA_IPTV2021 Punjabi", mh1 (Music)
-http://jo123.biz/jweb/m3u8.php?c=mh1_Music&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="903" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Only_Music.png" group-title="INDIA_IPTV2021 Punjabi", Only Music
-http://jo123.biz/jweb/m3u8.php?c=Only_Music&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="905" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PBN_Music.png" group-title="INDIA_IPTV2021 Punjabi", PBN Music
-http://jo123.biz/jweb/m3u8.php?c=PBN_Music&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1184" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Steelbird_Music.png" group-title="INDIA_IPTV2021 Punjabi", Steelbird Music
-http://jo123.biz/jweb/m3u8.php?c=Steelbird_Music&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="952" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/GarvGurbani.jpg" group-title="INDIA_IPTV2021 Punjabi", Garv Punjabi Gurbani
-http://jo123.biz/jweb/m3u8.php?c=GarvGurbani&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1174" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Fateh_TV.png" group-title="INDIA_IPTV2021 Punjabi", Fateh TV
-http://jo123.biz/jweb/m3u8.php?c=Fateh_TV&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="961" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/JUSOne.png" group-title="INDIA_IPTV2021 Punjabi", JUSOne
-http://jo123.biz/jweb/m3u8.php?c=JUSOne&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="654" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Punjabi_HP_Haryana.png" group-title="INDIA_IPTV2021 Punjabi", Zee Punjabi HP Haryana
-http://jo123.biz/jweb/m3u8.php?c=Zee_Punjabi_HP_Haryana&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="517" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Chardikla_Time_TV.png" group-title="INDIA_IPTV2021 Punjabi", Chardikla Time TV
-http://jo123.biz/jweb/m3u8.php?c=Chardikla_Time_TV&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1170" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_News.png" group-title="INDIA_IPTV2021 Punjabi", PTC News
-http://jo123.biz/jweb/m3u8.php?c=PTC_News&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="960" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/JUS24x7.png" group-title="INDIA_IPTV2021 Punjabi", JUS 24x7
-http://jo123.biz/jweb/m3u8.php?c=JUS24x7&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1478" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Akal_Academy_Group.png" group-title="INDIA_IPTV2021 Punjabi", Akal Academy Group
-http://jo123.biz/jweb/m3u8.php?c=Akal_Academy_Group&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1527" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Haryanvi_Hits.png" group-title="INDIA_IPTV2021 Punjabi", Haryanvi Hits
-http://jo123.biz/jweb/m3u8.php?c=Haryanvi_Hits&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1545" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Punjab_School_TV.png" group-title="INDIA_IPTV2021 Punjabi", Punjab School TV
-http://jo123.biz/jweb/m3u8.php?c=Punjab_School_TV&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1230" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/VR_360.png" group-title="INDIA_IPTV2021 Punjabi", PTC VR
-http://jo123.biz/jweb/m3u8.php?c=VR_360&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1265" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Global_Sanjh.png" group-title="INDIA_IPTV2021 Punjabi", Global Sanjh
-http://jo123.biz/jweb/m3u8.php?c=Global_Sanjh&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1281" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Movies.png" group-title="INDIA_IPTV2021 Punjabi", Manoranjan Movies
-http://jo123.biz/jweb/m3u8.php?c=Manoranjan_Movies&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1291" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Sanjha.png" group-title="INDIA_IPTV2021 Punjabi", ABP Sanjha
-http://jo123.biz/jweb/m3u8.php?c=ABP_Sanjha&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1317" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Patna_Sahib.png" group-title="INDIA_IPTV2021 Punjabi", Takht Sri Patna Sahib - Patna
-http://jo123.biz/jweb/m3u8.php?c=Sri_Patna_Sahib&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1441" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wah_Punjabi.png" group-title="INDIA_IPTV2021 Punjabi", Jio Exclusive HD
-http://jo123.biz/jweb/m3u8.php?c=Jio_Exclusive&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1157" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="INDIA_IPTV2021 English Entertainment", Comedy Central HD
-http://jo123.biz/jweb/m3u8.php?c=Comedy_Central_HD&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1158" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="INDIA_IPTV2021 English Entertainment", Colors Infinity HD
-http://jo123.biz/jweb/m3u8.php?c=Colors_Infinity_HD&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1066" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/QYOUHD.png" group-title="INDIA_IPTV2021 English Entertainment", The Q India
-http://jo123.biz/jweb/m3u8.php?c=QYOUHD&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1232" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hi_Dost.png" group-title="INDIA_IPTV2021 English Entertainment", Hi Dost!
-http://jo123.biz/jweb/m3u8.php?c=Hi_Dost&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1325" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" group-title="INDIA_IPTV2021 English Entertainment", Colors Infinity SD
-http://jo123.biz/jweb/m3u8.php?c=Colors_Infinity_SD&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1327" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_SD.png" group-title="INDIA_IPTV2021 English Entertainment", Comedy Central SD
-http://jo123.biz/jweb/m3u8.php?c=Comedy_Central_SD&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="833" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/HBO_HD.png" group-title="INDIA_IPTV2021 English Entertainment", HBO HD
-http://jo123.biz/jweb/m3u8.php?c=HBO_HD&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="762" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="INDIA_IPTV2021 English Entertainment", Sony Pix HD
-http://jo123.biz/jweb/m3u8.php?c=Sony_Pix_HD&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="834" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/WB.png" group-title="INDIA_IPTV2021 English Entertainment", WB
-http://jo123.biz/jweb/m3u8.php?c=WB&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1530" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_SD.png" group-title="INDIA_IPTV2021 English Entertainment", Sony Pix SD
-http://jo123.biz/jweb/m3u8.php?c=Sony_Pix_SD&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="492" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" group-title="INDIA_IPTV2021 English News", CNN NEWS 18
-http://jo123.biz/jweb/m3u8.php?c=CNN_NEWS_18&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="858" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" group-title="INDIA_IPTV2021 English News", Republic TV
-http://jo123.biz/jweb/m3u8.php?c=Republic_TV&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="493" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_Today.png" group-title="INDIA_IPTV2021 English News", India Today
-http://jo123.biz/jweb/m3u8.php?c=India_Today&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="142" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="INDIA_IPTV2021 English News", BBC World News
-http://jo123.biz/jweb/m3u8.php?c=BBC_World_News&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="495" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_X.png" group-title="INDIA_IPTV2021 English News", News X
-http://jo123.biz/jweb/m3u8.php?c=News_X&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="193" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN.png" group-title="INDIA_IPTV2021 English News", CNN
-http://jo123.biz/jweb/m3u8.php?c=CNN&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="494" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AL_Jazeera.png" group-title="INDIA_IPTV2021 English News", AL Jazeera
-http://jo123.biz/jweb/m3u8.php?c=AL_Jazeera&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="412" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wion.png" group-title="INDIA_IPTV2021 English News", Wion
-http://jo123.biz/jweb/m3u8.php?c=Wion&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="496" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/dw.png" group-title="INDIA_IPTV2021 English News", dw
-http://jo123.biz/jweb/m3u8.php?c=dw&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="885" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_Monde.png" group-title="INDIA_IPTV2021 English News", TV5 Monde
-http://jo123.biz/jweb/m3u8.php?c=TV_5_Monde&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="656" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_9.png" group-title="INDIA_IPTV2021 English News", News 9
-http://jo123.biz/jweb/m3u8.php?c=News_9&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="907" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/GoodNews_Channel.png" group-title="INDIA_IPTV2021 English News", GoodNews Channel
-http://jo123.biz/jweb/m3u8.php?c=GoodNews_Channel&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="764" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png" group-title="INDIA_IPTV2021 English News", Channel News Asia International
-http://jo123.biz/jweb/m3u8.php?c=Channel_News_Asia_International&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="421" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Goa365.png" group-title="INDIA_IPTV2021 English News", GOA 365
-http://jo123.biz/jweb/m3u8.php?c=Goa365&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="837" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Euro_News.png" group-title="INDIA_IPTV2021 English News", Euro News
-http://jo123.biz/jweb/m3u8.php?c=Euro_News&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1102" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/RDX_News.png" group-title="INDIA_IPTV2021 English News", RDX Goa
-http://jo123.biz/jweb/m3u8.php?c=RDX_News&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="787" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_English.png" group-title="INDIA_IPTV2021 English News", CVR English
-http://jo123.biz/jweb/m3u8.php?c=CVR_English&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1338" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/RT_TV.png" group-title="INDIA_IPTV2021 English News", RT TV
-http://jo123.biz/jweb/m3u8.php?c=RT_TV&q=800&e=junk.m3u8
-Manorama News
-http://jo123.biz/jweb/m3u8.php?c=Manorama_News&q=800&e=junk.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Babulnaath_Mumbai&q=800&e=junk.m3u8 
 #EXTINF: -1 tvg-id="672" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ananda.png" group-title="INDIA_IPTV2021 Bengali", ABP Ananda
 http://jo123.biz/jweb/m3u8.php?c=ABP_Ananda&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="625" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png" group-title="INDIA_IPTV2021 Bengali", Zee Bangla
@@ -889,9 +570,7 @@ http://jo123.biz/jweb/m3u8.php?c=35mm&q=800&e=junk.m3u8
 http://jo123.biz/jweb/m3u8.php?c=SKY_12&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="1561" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sristi_TV.png" group-title="INDIA_IPTV2021 Bengali", Sristi TV
 http://jo123.biz/jweb/m3u8.php?c=Sristi_TV&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1246" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tripura_News.png" group-title="INDIA_IPTV2021 Bengali", Headlines Tripura
-http://jo123.biz/jweb/m3u8.php?c=Tripura_News&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1261" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Calcutta_News.png" group-title="INDIA_IPTV2021 Bengali", Calcutta News
+Calcutta News
 http://jo123.biz/jweb/m3u8.php?c=Calcutta_News&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="1253" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_LIVE.png" group-title="INDIA_IPTV2021 Bengali", Kolkata Live
 http://jo123.biz/jweb/m3u8.php?c=Kolkata_Live&q=800&e=junk.m3u8
@@ -903,5 +582,5 @@ http://jo123.biz/jweb/m3u8.php?c=Khusboo_TV&q=800&e=junk.m3u8
 http://jo123.biz/jweb/m3u8.php?c=Orange_TV&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="1494" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhoomi_TV.png" group-title="INDIA_IPTV2021 Bengali", BHOOMI 24x7
 http://jo123.biz/jweb/m3u8.php?c=Bhoomi_TV&q=800&e=junk.m3u8
-
-
+#EXTINF:0,Dangal
+http://jo123.biz/jweb/m3u8.php?c=Dangal&q=800&e=junk.m3u8
